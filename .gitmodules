@@ -1,0 +1,3 @@
+[submodule "DFRDuino"]
+	path = DFRDuino
+	url = https://github.com/willprice/arduino-dfrduino.git
